@@ -78,9 +78,9 @@
     </licenses>
     <!-- SCM信息 -> git在github上托管 -->
     <scm>
-        <connection>scm:git:git://github.com/zhengqingya/OSSRH-49683.git</connection>
-        <developerConnection>scm:git:ssh://github.com/zhengqingya/OSSRH-49683.git</developerConnection>
-        <url>https://github.com/zhengqingya/OSSRH-49683/tree/master</url>
+        <connection>scm:git:git://github.com/swalikh/wework-wehook-starter.git</connection>
+        <developerConnection>scm:git:ssh://github.com/swalikh/wework-wehook-starter.git</developerConnection>
+        <url>https://github.com/swalikh/wework-wehook-starter/tree/main</url>
     </scm>
 
     <!-- 使用个人资料：由于生成javadoc和源jar以及使用GPG签署组件是一个相当耗时的过程，因此这些执行通常与正常的构建配置隔离并移动到配置文件中。然后，在通过激活配置文件执行部署时，将使用此配置文件。 -->
